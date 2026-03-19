@@ -1,5 +1,5 @@
 # My Python Practice
-The repository contains simple python programs for basic practice.In this lab, I turn mathematical concepts into code to build a strong foundation for my future in Data science.Each script represents a step forward in my learning journey.
+The repository contains simple python programs for basic practice.In this journey, I turn mathematical concepts into code to build a strong foundation for my future in Data science.Each script represents a step forward in my learning journey.
 
 # What's inside?
 * Basic Python scripts and logic building.
