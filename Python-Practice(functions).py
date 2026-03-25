@@ -1,14 +1,14 @@
-# def sum(a,b):
-#     sum=a+b
-#     print(sum)
-#     return sum  # or return a+b
+ def sum(a,b):
+    sum=a+b
+    print(sum)
+    return sum  # or return a+b
 
 
-# sum(3,4)
+sum(3,4)
 
-# sum(7,8)
+sum(7,8)
 
-# sum(1,3)
+sum(1,3)
 
 
 #recursion
